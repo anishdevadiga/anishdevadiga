@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Visualization**
 
-- 👨‍💻 All of my projects are available at [hosting-site=portfoliobackend-9477e](hosting-site=portfoliobackend-9477e)
+- 👨‍💻 All of my projects are available at https://portfoliobackend-9477e.web.app/
 
 - 📫 How to reach me **anishkdevadiga2002@gmail.com**
 
