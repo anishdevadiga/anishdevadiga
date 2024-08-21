@@ -65,7 +65,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
   <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterflowio/flutterflowio-icon.svg" alt="flutterflow" width="40" height="40"/> 
+    <img src="[https://www.vectorlogo.zone/logos/flutterflowio/flutterflowio-icon.svg](https://www.google.com/imgres?q=flutteerflow%20icon&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74943865%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FFlutterFlow&docid=zH9fcPpJQB8oWM&tbnid=ycLbB1nasOT6-M&vet=12ahUKEwiw6O3kz4aIAxUYwzgGHQ7PEDQQM3oECHoQAA..i&w=280&h=280&hcb=2&ved=2ahUKEwiw6O3kz4aIAxUYwzgGHQ7PEDQQM3oECHoQAA)" alt="flutterflow" width="40" height="40"/> 
   </a>
 
   <!-- Mobile Development -->
@@ -88,14 +88,11 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://www.deepmind.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/deepmind/deepmind-icon.svg" alt="deepmind" width="40" height="40"/> 
-  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg](https://www.google.com/imgres?q=powerbi&imgurl=https%3A%2F%2Fdatawarehouse.io%2Fwp-content%2Fuploads%2F2019%2F06%2FPowerBI-logo-new-1.png&imgrefurl=https%3A%2F%2Fdatawarehouse.io%2Fproduct%2Fhubspot-power-bi-connector%2F&docid=LrSX_yAvGe6BiM&tbnid=hPH551Km1Kr6GM&vet=12ahUKEwiVvMiK0IaIAxVtyjgGHfhHIcAQM3oECHMQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiVvMiK0IaIAxVtyjgGHfhHIcAQM3oECHMQAA)" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg](https://www.google.com/imgres?q=excel%20icon&imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fbrands-and-social-media%2Fmicrosoft-excel-icon.svg&imgrefurl=https%3A%2F%2Fuxwing.com%2Fmicrosoft-excel-icon%2F&docid=9Bfgoy_qCF4yAM&tbnid=WiUyw2euC1oFEM&vet=12ahUKEwizu6S90IaIAxWqxTgGHVW_HiAQM3oECBUQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwizu6S90IaIAxWqxTgGHVW_HiAQM3oECBUQAA)" alt="excel" width="40" height="40"/>
   </a>
 </p>
 
